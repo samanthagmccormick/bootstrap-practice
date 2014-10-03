@@ -1,0 +1,4 @@
+/* Have to add padding to the top to allow space for the navbar. Navbar is a default of 50px high*/
+body {
+	padding-top: 50px;
+}
